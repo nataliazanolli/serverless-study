@@ -1,0 +1,8 @@
+{
+  "body": "{\"source\":\"tok_visa\",\"storage\":21}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "87051655-bb1b-4fa2-b073-120fa952e93e"
+    }
+  }
+}
